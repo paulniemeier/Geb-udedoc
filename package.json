@@ -1,0 +1,29 @@
+{
+  "name": "geb-udedoc",
+  "version": "1.0.0",
+  "description": "Gebäudesystemintegrationssoftware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulniemeier/Geb-udedoc.git"
+  },
+  "keywords": [
+    "building",
+    "system",
+    "integration",
+    "gebäude",
+    "automation"
+  ],
+  "author": "Paul Niemeier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulniemeier/Geb-udedoc/issues"
+  },
+  "homepage": "https://github.com/paulniemeier/Geb-udedoc#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
