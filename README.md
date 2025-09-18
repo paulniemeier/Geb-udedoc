@@ -1,4 +1,5 @@
-🏗️ Gebäudedoc
+<img width="1024" height="1024" alt="logo192" src="https://github.com/user-attachments/assets/1d8ee21e-f5b8-4a7e-847e-4cf6601bae7e" />
+
 
 Gebäudedoc ist eine Software zur Dokumentation und Protokollierung von Gebäudesystemintegration.
 Sie unterstützt Fachplaner, Systemintegratoren und Gebäudetechniker bei der strukturierten Erfassung, Verwaltung und Auswertung von Projektdaten – schnell, praxisnah und übersichtlich.
