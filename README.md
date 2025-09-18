@@ -1,4 +1,5 @@
-<img width="300" height="300" alt="logo192" src="https://github.com/user-attachments/assets/1d8ee21e-f5b8-4a7e-847e-4cf6601bae7e" />
+<img width="300" height="300" alt="logo192" src="https://github.com/user-attachments/assets/1d8ee21e-f5b8-4a7e-847e-4cf6601bae7e" /><img width="1024" height="1536" alt="PM vorm PC mit Gd" src="https://github.com/user-attachments/assets/944ca285-e4e0-471a-aec8-644e5f98b7f1" />
+
 
 
 Gebäudedoc ist eine Software zur Dokumentation und Protokollierung von Gebäudesystemintegration.
