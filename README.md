@@ -45,4 +45,4 @@ Bei Fragen, Feedback oder Fehlern:
 
 Wenn dir Gebäudedoc gefällt, spendier mir doch ein Bier:  
 
-[![Spendier mir ein Bier](https://img.shields.io/badge/🍺-Spendier%20mir%20ein%20Bier-ffdd00?style=for-the-badge)](https://www.paypal.me/paulniemeier3@gmail.com)
+[![Spendier mir ein Bier](https://img.shields.io/badge/🍺-Spendier%20mir%20ein%20Bier-ffdd00?style=for-the-badge)](https://www.paypal.me/Paul Niemeier)
