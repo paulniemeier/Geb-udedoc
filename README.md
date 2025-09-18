@@ -1,5 +1,5 @@
 <img width="300" height="300" alt="logo192" src="https://github.com/user-attachments/assets/1d8ee21e-f5b8-4a7e-847e-4cf6601bae7e" />
-<img width="1024" height="1536" alt="PM vorm PC mit Gd Transparent" src="https://github.com/user-attachments/assets/11631387-0be2-47da-a29e-0878a5d49b60" />
+<img width="500" height="600" alt="PM vorm PC mit Gd Transparent" src="https://github.com/user-attachments/assets/11631387-0be2-47da-a29e-0878a5d49b60" />
 
 
 
