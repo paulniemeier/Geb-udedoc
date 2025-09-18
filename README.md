@@ -5,32 +5,40 @@ Sie unterstützt Fachplaner, Systemintegratoren und Gebäudetechniker bei der st
 
 ✨ Features
 
-🔌 KNX-Projektdatei-Import – Projektdaten automatisch übernehmen
+🔌 KNX-Projektdatei-Import 
 
-🛠 Geräte- & Verbindungsübersicht – klare Darstellung der Gebäudesysteme
+– Projektdaten automatisch übernehmen
 
-📑 Export-Funktionen – Protokolle und Geräte als PDF
+🛠 Geräte- & Verbindungsübersicht 
 
-⬆️ Update-Menü – einfache Aktualisierung direkt aus der Anwendung
+– klare Darstellung der Gebäudesysteme
+
+📑 Export-Funktionen 
+
+– Protokolle und Geräte als PDF
+
+⬆️ Update-Menü 
+
+– einfache Aktualisierung direkt aus der Anwendung
 
 ⚡ Optimierte Performance für reibungslosen Einsatz
 
 🚀 Installation
 
-Lade die aktuelle Version von Releases
+-Lade die aktuelle Version von Releases
  herunter.
 
-Führe die Setup-Datei aus und folge den Anweisungen.
+-Führe die Setup-Datei aus und folge den Anweisungen.
 
-Starte die Anwendung über das Desktop-Icon.
+-Starte die Anwendung über das Desktop-Icon.
 
 📖 Nutzung
 
-Projekt anlegen oder bestehendes Projekt importieren.
+-Projekt anlegen oder bestehendes Projekt importieren.
 
-Geräte, Verbindungen und Protokolle verwalten.
+-Geräte, Verbindungen und Protokolle verwalten.
 
-Protokolle und Geräte exportieren.
+-Protokolle und Geräte exportieren.
 
 🧪 Status
 
