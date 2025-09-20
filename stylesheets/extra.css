@@ -1,0 +1,36 @@
+﻿/* Custom background styling for Gebaeudedoc */
+.md-main {
+    background: url("../Websitedarstellung/website hintergrund.png") center / cover fixed no-repeat;
+    padding-bottom: 3rem;
+}
+
+.md-main__inner {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(2px);
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+
+@media (max-width: 960px) {
+    .md-main__inner {
+        border-radius: 0;
+        padding: 1rem;
+    }
+}
+
+.md-header {
+    background: rgba(12, 32, 64, 0.85);
+    backdrop-filter: blur(3px);
+    color: #fff;
+}
+
+.md-header .md-header__title,
+.md-header .md-header__button,
+.md-header .md-tabs__link {
+    color: inherit;
+}
+
+.md-header .md-header__button:hover,
+.md-header .md-tabs__link:hover {
+    color: #e0e6ff;
+}
