@@ -520,8 +520,13 @@
 <p>Dieser Leitfaden begleitet dich beim ersten Einstieg in Gebaeudedoc – vom Anlegen des ersten Projekts bis zum fertigen PDF-Export.</p>
 <h2 id="vorbereitung">Vorbereitung<a class="headerlink" href="#vorbereitung" title="Permanent link">&para;</a></h2>
 <ol>
-<li>Starte Gebaeudedoc; die Projektübersicht öffnet sich automatisch.</li>
-<li>Klicke oben rechts auf <strong>Projektordner wählen</strong> und gib den Ordner an, in dem alle Projektdaten gespeichert werden sollen.</li>
+<li>
+<p>Starte Gebaeudedoc; die Projektübersicht öffnet sich automatisch.</p>
+<p><img alt="Startseite von Gebaeudedoc" src="../Images/Startseite.png" /></p>
+</li>
+<li>
+<p>Klicke unten rechts auf <strong>Projektordner wählen</strong> und gib den Ordner an, in dem alle Projektdaten gespeichert werden sollen.</p>
+</li>
 <li>Bestätige die Auswahl. Der Pfad wird gemerkt und beim nächsten Start automatisch geladen.</li>
 <li>Optional: Öffne das Menü <strong>Profil → Profil bearbeiten</strong>, trage deinen Namen ein und lade bei Bedarf ein Logo (PNG/JPG). Beides erscheint später auf den PDF-Exporten.</li>
 </ol>
@@ -533,15 +538,15 @@
 <ol>
 <li>Fülle im linken Bereich <strong>Projekt erfassen</strong> die Felder <em>Projektname</em>, <em>Kunde</em>, <em>Kundennummer</em>, <em>Standort</em>, <em>Auftragsnummer</em>, <em>Bearbeiter</em> und <em>Datum</em> aus.</li>
 <li>Klicke auf <strong>Projekt speichern</strong>. Das Projekt wird angelegt, erhält automatisch einen eigenen Unterordner und erscheint rechts in der Liste.</li>
-<li>Öffne das Projekt per Doppelklick auf den Listeneintrag. Du gelangst in die Detailansicht mit Netzplan und Tabellen.</li>
+<li>Öffne das Projekt per Doppelklick auf den Listeneintrag. Du gelangst in die Detailansicht mit Geräteübersicht und Tabellen.</li>
 <li>Möchtest du Stammdaten ändern? Nutze das Drei-Punkte-Menü neben dem Projekt und wähle <strong>Projekt bearbeiten</strong>.</li>
 </ol>
 <h2 id="gerate-platzieren">Geräte platzieren<a class="headerlink" href="#gerate-platzieren" title="Permanent link">&para;</a></h2>
 <ol>
-<li>In der Detailansicht klicke links oben auf <strong>Gerät erfassen</strong>. Das Formular klappt direkt über dem Netzplan auf.</li>
+<li>In der Detailansicht klicke links oben auf <strong>Gerät erfassen</strong>. Das Formular klappt direkt über der Geräteübersicht auf.</li>
 <li>Wähle über das Dropdown einen <em>Gerätetyp</em> (zum Beispiel KNX, Netzwerk, Loxone oder „Neu“ für freie Eingaben).</li>
 <li>Ergänze je nach Typ Verbindungsart, Protokoll, Adresse und Standort. Bei KNX-Geräten prüft die App automatisch, ob die Adresse bereits vergeben ist.</li>
-<li>Speichere mit <strong>Gerät erstellen</strong>. Der Knoten erscheint im Netzplan und wird in der Gerätetabelle geführt.</li>
+<li>Speichere mit <strong>Gerät erstellen</strong>. Der Knoten erscheint in der Geräteübersicht und wird in der Gerätetabelle geführt.</li>
 <li>Ziehe Verbindungen per Drag &amp; Drop zwischen den Geräten. Rechtsklick auf eine Verbindung öffnet ein Kontextmenü zum Löschen oder Ändern des Protokolls.</li>
 <li>Doppelklick auf einen vorhandenen Knoten lädt seine Daten in das Formular, damit du Änderungen vornehmen oder das Gerät löschen kannst.</li>
 </ol>
@@ -556,7 +561,7 @@
 <ul>
 <li><strong>Gerätetabelle:</strong> Sortiere per Spaltenklick nach Name, Typ, Adresse, Verbindung oder Standort. Die aktuelle Sortierung bleibt gespeichert.</li>
 <li><strong>Anmerkungs-Tabelle:</strong> Trage Notizen je Gerät ein. Die Eingabe wird gespeichert, sobald du das Feld verlässt.</li>
-<li><strong>Legende:</strong> Blende über den Button oben rechts im Netzplan alle verwendeten Protokollfarben ein. So kontrollierst du schnell, ob die Darstellung passt.</li>
+<li><strong>Legende:</strong> Blende über den Button oben rechts in der Geräteübersicht alle verwendeten Protokollfarben ein. So kontrollierst du schnell, ob die Darstellung passt.</li>
 </ul>
 <div class="admonition note">
 <p class="admonition-title">Automatisches Speichern</p>
@@ -571,16 +576,16 @@
 <li><strong>Legende (PDF)</strong> für die Protokollübersicht,</li>
 <li><strong>Anmerkungen (PDF)</strong> für sämtliche Notizen,</li>
 <li><strong>Alles exportieren (PDFs)</strong> für ein Sammeldokument mit allen Kapiteln.</li>
-<li>Nutze <strong>Print to PDF</strong> (Strg oder Cmd + P), um den Netzplan in einer druckoptimierten A4-Ansicht zu erzeugen.</li>
+<li>Nutze <strong>Print to PDF</strong> (Strg oder Cmd + P), um die Geräteübersicht in einer druckoptimierten A4-Ansicht zu erzeugen.</li>
 <li>Speichere die PDFs am gewünschten Speicherort. Die Dateien bleiben unverändert mit dem Projektordner verknüpft.</li>
 </ol>
 <h2 id="updates-pflege">Updates &amp; Pflege<a class="headerlink" href="#updates-pflege" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Über <strong>System → Update aus Datei installieren…</strong> führst du neue Installationen ein, ohne das Projekt zu verlassen.</li>
+<li>Über <strong>System → Update aus Datei installieren…</strong> führst du neue Installationen ein.</li>
 <li>Der zuletzt verwendete Projektordner und deine Profildaten bleiben erhalten.</li>
-<li>Für Feedback oder Fehlerberichte nutze das verknüpfte GitHub-Repository oder kontaktiere das Support-Team.</li>
+<li>Für Feedback oder Fehlerberichte nutze das verknüpfte GitHub-Repository oder kontaktiere mich direkt.</li>
 </ul>
-<p>Mit diesen Schritten bist du bereit, deine Gebaeudedokumentation vollständig zu erfassen und exportfertig aufzubereiten.</p>
+<p>Mit diesen Schritten bist du bereit, deine Gebäudedokumentation vollständig zu erfassen und exportfertig aufzubereiten.</p>
 
 
 
